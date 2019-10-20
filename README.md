@@ -1,0 +1,1 @@
+This is Chuck's second git project, but the first actually taking the time to learn how to properly use git and gitHub.
